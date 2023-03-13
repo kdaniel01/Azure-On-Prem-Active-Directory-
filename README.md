@@ -51,6 +51,26 @@ Retried pinging the Domain Controller which was successful confirming connectivi
 <img src="https://i.imgur.com/XaAkgTX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <h2>Part 3- Installing Active Directory and Admin Creation:</h2>
+
+<p align="center">
+Logged into to DCvm1 and installed Active Directorey Domain Services. Server manager > "Add roles and features" > Check the box for "Active Directory Domain Services" <br/>
+<img src="https://i.imgur.com/G1CgBKh.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+<img src="https://i.imgur.com/ruLMhY0.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br />
+
+<p align="center">
+Then promoted DCvm1 from server to Domain Controller.A new forrest was then configured.<br/>
+<img src="https://i.imgur.com/UXuTINl.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+<img src="https://i.imgur.com/Bnqe9Ct.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
+
+<p align="center">
+Retried pinging the Domain Controller which was successful confirming connectivity.<br/>
+<img src="https://i.imgur.com/XaAkgTX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+
+
+
 <!--
  ```diff
 - text in red
