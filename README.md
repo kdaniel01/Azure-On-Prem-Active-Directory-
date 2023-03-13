@@ -14,6 +14,7 @@
 - <b>Azure Virtual Machine (Windows 10 21H2)<br />
 - <b>Active Directory Domain Services<br />
 - <b>Powershell<br />
+- <b>Remote Desktop<br />
 
 <h2>Overview </h2>
 - <b>Deploying Resources in Azure<br /> 
