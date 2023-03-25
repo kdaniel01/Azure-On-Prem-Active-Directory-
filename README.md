@@ -62,12 +62,7 @@ Then promoted DCvm1 from server to Domain Controller.A new forrest was then conf
 <img src="https://i.imgur.com/UXuTINl.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 <img src="https://i.imgur.com/Bnqe9Ct.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />
 
-<p align="center">
-Retried pinging the Domain Controller which was successful confirming connectivity.<br/>
-<img src="https://i.imgur.com/XaAkgTX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
- 
- 
+
  <p align="center">
 Restarted DCvm1 and logged in as user: dannytech.com\azureuser.Then launched Active Directory Users and Computers.<br/>
 <img src="https://i.imgur.com/MTw8h31.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
