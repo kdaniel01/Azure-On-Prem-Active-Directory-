@@ -30,7 +30,7 @@ Deployed a Windows Server 2022 Virtual Machine with was used as the Domain Contr
 <img src="https://i.imgur.com/QOK5OR4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-A Created a Client VM named "Clientvm1" which was deployed in the same resource group as the Domain COntroller "DCvm1". Both VMs were also deployed in the same Virtual Network<br/>
+Created a Client VM named "Clientvm1" which was deployed in the same resource group as the Domain COntroller "DCvm1". Both VMs were also deployed in the same Virtual Network<br/>
 <img src="https://i.imgur.com/iqYwAfX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
