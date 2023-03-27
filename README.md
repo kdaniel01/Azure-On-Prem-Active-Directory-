@@ -17,9 +17,9 @@
 - <b>Remote Desktop<br />
 
 <h2>Overview </h2>
-- <b>Deploying Resources in Azure<br /> 
-- <b>Checking for connectivity between Client Virtual Machines and Domain Controller<br />
-- <b>Installing Active Directory and Admin Creation<br />
+- <b>Part 1- Deploying Resources in Azure<br /> 
+- <b>Part 2- Checking for connectivity between Client Virtual Machines and Domain Controller<br />
+- <b>Part 3- Installing Active Directory and Admin Creation<br />
 
 
 
